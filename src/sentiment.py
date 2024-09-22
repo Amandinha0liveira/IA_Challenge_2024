@@ -1,8 +1,6 @@
-#FUNÇÃO: Análise de Sentimento dentro do documento
-
 from textblob import TextBlob
 
-# Função para análise de sentimento
+# Análise de sentimento
 def analisar_sentimento(texto):
     blob = TextBlob(texto)
     sentimento = blob.sentiment.polarity

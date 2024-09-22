@@ -1,0 +1,6 @@
+pdfplumber
+dateparser
+transformers
+textblob
+scikit-learn
+google-colab
