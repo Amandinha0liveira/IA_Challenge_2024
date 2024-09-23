@@ -164,4 +164,14 @@ def analisar_documento_completo(caminho_pdf, nome_pdf):
 
     print(f"Classificação Final: {classificacao_final}")
 ```
+#### Exemplo de Saída:
 
+```python
+Analisando o arquivo: relatorio_fornecedor_8.pdf
+
+Classificação BERT: baixa prioridade
+Sentimento do documento: neutro
+Classificação Naive Bayes: baixa
+Validade do documento: sem data
+Classificação Final: média prioridade
+```
