@@ -3,4 +3,4 @@ dateparser
 transformers
 textblob
 scikit-learn
-google-colab
+google-colab (se for rodar no colab)
